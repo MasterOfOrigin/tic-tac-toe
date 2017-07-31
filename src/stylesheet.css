@@ -1,0 +1,27 @@
+.square {
+  height: 80px;
+  width: 80px;
+  /*width: 33%;*/
+  border-style: solid;
+  border-color: #ff0000;
+  background-color:yellow;
+  text-align: center;
+  font-size: 60px;
+}
+
+.container {
+  width: 250px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.row {
+  margin: 0px;
+  width: 250px;
+}
+
+#PlayerWin {
+  z-index: 1;
+  font-size: 40px;
+  clear: both;
+}
